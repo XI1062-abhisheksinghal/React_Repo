@@ -1,0 +1,25 @@
+{
+  "name": "publish-to-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek90singhal/React_Repo.git"
+  },
+  "keywords": [
+    "First",
+    "publish",
+    "to",
+    "npm"
+  ],
+  "author": "Abhishek Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek90singhal/React_Repo/issues"
+  },
+  "homepage": "https://github.com/abhishek90singhal/React_Repo#readme"
+}
